@@ -14,7 +14,7 @@
   "submissions": [
     {
       "id": "30ac6e3c-efd4-4ba7-82a8-3bcdd835ba26",
-      "student_id": "DOC-2026-01",
+      "student_id": "STU-2026-015",
       "assignment_title": "Introduction to Computer Networks",
       "text": "| Sarah J. Chen\nOctober 26, 2023\n\nIntroduction to Computer Networks\n\nA Computer network is a collection of computers and devices connected\n\ntogether to share resources, information, and communication.\n1. LAN (Local Area Network) - connects devices in a small geographic area\n\n(e.g., home, office).\n2. WAN (Wide Area Network) - spans a large geographic area (eqg,, the Interne).\n\nBasic_Network Diagram\n\nS=\nNIC (Network Interface Card): connects the device to the network\nRouter: forwards data packets between networks\n\nProtocol: rules for data transmission (e.g., TCP/IP, HTTP)\n\nTo have any network components, innovons, and miority to access the\nbenefits of network benefits: es\n\n* Resource sharing (printers, files\n\n* Communication (email, messaging\n\n* Access to remote information",
       "teacher": "Prachi",
@@ -28,7 +28,7 @@
     },
     {
       "id": "cc5a59f3-fc53-420d-857f-102c6d20b3ee",
-      "student_id": "DOC-2026-01",
+      "student_id": "STU-2026-015",
       "assignment_title": "Introduction to Computer Networks",
       "text": "| Sarah J. Chen\nOctober 26, 2023\n\nIntroduction to Computer Networks\n\nA Computer network is a collection of computers and devices connected\n\ntogether to share resources, information, and communication.\n1. LAN (Local Area Network) - connects devices in a small geographic area\n\n(e.g., home, office).\n2. WAN (Wide Area Network) - spans a large geographic area (eqg,, the Interne).\n\nBasic_Network Diagram\n\nS=\nNIC (Network Interface Card): connects the device to the network\nRouter: forwards data packets between networks\n\nProtocol: rules for data transmission (e.g., TCP/IP, HTTP)\n\nTo have any network components, innovons, and miority to access the\nbenefits of network benefits: es\n\n* Resource sharing (printers, files\n\n* Communication (email, messaging\n\n* Access to remote information",
       "teacher": "Prachi",
@@ -39,6 +39,20 @@
         "uploaded_at": "2026-06-05T14:36:38.114178Z"
       },
       "uploaded_at": "2026-06-05T14:36:38.114864Z"
+    },
+    {
+      "id": "bad7da87-41c0-432d-b3a2-dbf758dccf4a",
+      "student_id": "STU-2026-015",
+      "assignment_title": "New Notes",
+      "text": "Nov. 2, 2023\n\n? | Quick Network Notes Ideas ™F*\n\n|\nOkay, so what is a network? Basically, just a bunch of\n| Stuf connected to talk to each other and share files.\n\n* LAN (my apactment network) vs.\n* WAN (li ee the whole inteenet)\n\nSecurity/ VPN. connection”\nisa big\ndeal\n\nSecurity is a big\nrae deal here..\n\n. Ae ‘ Whot about protocols?\neB ol x TCP/TP = the gronddaddy of\n\nServer My My them all!\nA Laptop Phone x HTTP - for web stuff.\n%* DNS - “phonebook” for the web.\n\nKK) Why bother?\n\n1. Easy file swaps.\n\n2. Remote access!\n\n3. Playing games over LAN.",
+      "teacher": "Prachi",
+      "status": "pending",
+      "review_note": "",
+      "metadata": {
+        "assignment_title": "New Notes",
+        "uploaded_at": "2026-06-05T16:51:26.290801Z"
+      },
+      "uploaded_at": "2026-06-05T16:51:26.291122Z"
     }
   ]
 }

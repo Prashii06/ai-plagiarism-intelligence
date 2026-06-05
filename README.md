@@ -1,6 +1,25 @@
 # AI Plagiarism Intelligence
 
-Academic assignment integrity platform combining OCR, student history, and IBM watsonx.ai analysis.
+Academic assignment integrity platform combining OCR, student history, and IBM watsonx.ai analysis for intelligent plagiarism detection and personalized feedback.
+
+## Tech Stack
+
+### AI & Machine Learning
+- **IBM Granite Model** (e.g., ibm-granite-3-2-8b) - Natural language understanding, reasoning, and personalized analysis for plagiarism detection
+- **IBM Watsonx.ai** - Model deployment, embeddings generation, and AI governance for enterprise-grade AI services
+- **RAG (Retrieval-Augmented Generation)** - Fetch real plagiarism data first, then generate intelligent analysis, ensuring more trustworthy and effective detection
+- **Vector Database (FAISS/Chroma)** - Store and retrieve academic integrity reference data for RAG-based analysis
+
+### Workflow & Orchestration
+- **Langflow Platform** - Design and orchestrate multi-agent workflows visually for complex plagiarism detection pipelines
+
+### Infrastructure & Deployment
+- **IBM Cloud** - Reliable, secure, and scalable infrastructure for deploying the plagiarism intelligence system
+
+### Application Stack
+- **Backend**: FastAPI (Python) - RESTful API server for OCR processing and AI analysis
+- **Frontend**: React + TypeScript - Modern UI for instructors and academic staff
+- **OCR**: Tesseract - Optical character recognition for extracting text from assignment images
 
 ## Project structure
 
