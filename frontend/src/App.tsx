@@ -418,12 +418,6 @@ function AuthPage({ mode, username, password, setUsername, setPassword, authErro
           <button type="submit" className="btn-primary w-full">
             {mode === 'login' ? 'Sign In' : 'Create Account'}
           </button>
-
-          {mode === 'login' && (
-            <p className="text-sm text-slate-600 text-center mt-4">
-              Don&apos;t have account? <Link to="/signup" className="text-blue-600 font-semibold hover:underline">Create One!</Link>
-            </p>
-          )}
         </form>
       </div>
 
