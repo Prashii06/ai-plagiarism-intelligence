@@ -514,7 +514,7 @@ function UploadPage({ selectedFile, onFileChange, studentId, assignmentTitle, se
 
         <form onSubmit={onSubmit} className="space-y-5">
           <div>
-            <label className="block text-sm font-medium text-slate-700 mb-2">Individual ID</label>
+            <label className="block text-sm font-medium text-slate-700 mb-2">Student ID</label>
             <input
               type="text"
               value={studentId}
